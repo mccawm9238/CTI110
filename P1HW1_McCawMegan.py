@@ -1,7 +1,7 @@
 # Megan McCaw
 # March 1, 2026
 # P1HW1
-# This program will perform will take integers inputted by the user and print the results of each calculation
+# This program will take integers inputted by the user and print the results of each calculation
 
 print('----Calculating Exponents----')
 
